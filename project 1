@@ -1,0 +1,6 @@
+class student_details:
+   def_init_(self):
+     self.name = input("enter your name: ")
+     self.cname = input("enter your college name: ")
+     self.roll = int(input("enter your roll number: "))
+     print ("entered information: " + class student_details)
